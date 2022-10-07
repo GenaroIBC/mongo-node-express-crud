@@ -41,7 +41,7 @@ Then, change to the project's directory and install dependencies:
 Finally, run:
 
 ```shell
-  npm run dev
+   node app.js
 ```
 
 🌐 Now, you can go to [localhost:4001](http://localhost:4001) with your browser to start playing.
