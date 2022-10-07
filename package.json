@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-crud",
+  "version": "1.0.0",
+  "description": "Mongoose crud using Vanila JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Genaro Bonavita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.3"
+  }
+}
